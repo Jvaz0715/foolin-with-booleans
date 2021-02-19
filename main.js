@@ -2,13 +2,13 @@
  * YOUR CODE BELOW! *
  ********************/
 
- function moreThan5(num) {
-   return num > 5;
- };
+function moreThan5(num) {
+  return num > 5;
+};
 
- function isNewTopScore(score, topScore) {
+function isNewTopScore(score, topScore) {
   return score > topScore;
- }
+}
 
 function isInDanger(grade) {
   return grade >= 60 && grade <= 71;
